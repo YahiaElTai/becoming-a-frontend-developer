@@ -2,11 +2,13 @@
 
 This guide is meant to be used by anyone interested in by becoming a frontend developer.
 
-## General Notes
+### Notes
 
 - Most of the courses on this list are either from [udemy.com](udemy.com) or [coursera.org](coursera.org)
 - Courses on Udemy are paid but udemy runs discounts quite regularly.
 - Courses on Coursera are free generally, you only have to pay if you need the certifcate (between you and me, you don't need that..)
+
+## Courses List
 
 This guide is divited into 4 sections:
 
