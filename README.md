@@ -2,6 +2,9 @@
 
 This guide is meant to be used by anyone interested in by becoming a frontend developer.
 
+There are a lot of courses on this list but you don't have to finish all of them.
+You should finish sections [1](#frontend-basics-required) and [2](#frontend-with-react-required) and the first course from section [3](#backend-with-nodejs--graphql-optional) and then you can start applying for jobs as a junior frontend developer. refer to [FAQ](#frequently-asked-questions) for more info.
+
 ### Notes
 
 - Most of the courses on this list are either from [udemy.com](udemy.com) or [coursera.org](coursera.org)
@@ -17,7 +20,7 @@ This guide is divited into 4 sections:
 3. [Backend with Nodejs & GraphQL](#backend-with-nodejs--graphql)
 4. [DevOps with GCP, AWS and K8s](#devops-with-gcp-aws-and-k8s)
 
-## Frontend Basics
+## Frontend Basics (required)
 
 1. [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3)
 2. [Web Design for Web Developers: Build Beautiful Websites](https://www.udemy.com/course/web-design-secrets/)
@@ -31,7 +34,7 @@ This guide is divited into 4 sections:
 10. [Understanding HTML and CSS](https://www.udemy.com/course/understanding-html-and-css/)
 11. [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/)
 
-## Frontend with React
+## Frontend with React (required)
 
 1. [React - The Complete Guide (inch Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 2. [The Complete React Developer Course (w/ Hooks and Redux)](https://www.udemy.com/course/react-2nd-edition/)
@@ -40,7 +43,7 @@ This guide is divited into 4 sections:
 5. [Clean Code](https://www.udemy.com/course/writing-clean-code/)
 6. [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)
 
-## Backend with Nodejs & GraphQL
+## Backend with Nodejs & GraphQL (optional)
 
 1. [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/)
 2. [Learn and Understand NodeJS](https://www.udemy.com/course/understand-nodejs/)
@@ -50,7 +53,7 @@ This guide is divited into 4 sections:
 6. [MongoDB - The Complete Developer's Guide 2022](https://www.udemy.com/course/mongodb-the-complete-developers-guide/)
 7. [Redis: The Complete Developer's Guide](https://www.udemy.com/course/redis-the-complete-developers-guide-p/)
 
-## DevOps with GCP, AWS and K8s
+## DevOps with GCP, AWS and K8s (optional)
 
 1. [NGINX Fundamentals: High Performance Servers from Scratch](https://www.udemy.com/course/nginx-fundamentals/)
 2. [Docker for the Absolute Beginner - Hands On - DevOps](https://www.udemy.com/course/learn-docker/)
@@ -94,7 +97,7 @@ Once you get a job and get some hands on experience on a real world project, the
 
 **What is this DevOps stuff and do I have to care about it?**
 
-As a junior developer, you don't have to care about it. but as you advance in your career, especially if you want to reach Senior level then you need to undertand DevOps.
+As a junior developer, you don't have to care about it. but as you advance in your career, especially if you want to reach Senior level then you need to undertand DevOps, I'd say don't worry about it for now. I have added them here just for completeness.
 
 DevOps will allow you to answer the question: _How do I deploy a large scale application to production and keep it running?_
 
