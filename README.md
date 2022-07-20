@@ -41,7 +41,9 @@ This guide is divited into 4 sections:
 5. [Clean Code](https://www.udemy.com/course/writing-clean-code/)
 6. [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)
 
-## Backend with Nodejs & GraphQL (optional)
+## Backend with NodeJS (optional)
+
+> NodeJS is a JavaScript runtime that allows you to write JS on the backend, meaning you don't have to learn another language to build a full stack project.
 
 1. [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/)
 2. [Learn and Understand NodeJS](https://www.udemy.com/course/understand-nodejs/)
@@ -51,7 +53,7 @@ This guide is divited into 4 sections:
 6. [MongoDB - The Complete Developer's Guide 2022](https://www.udemy.com/course/mongodb-the-complete-developers-guide/)
 7. [Redis: The Complete Developer's Guide](https://www.udemy.com/course/redis-the-complete-developers-guide-p/)
 
-## DevOps with GCP, AWS and K8s (optional)
+## DevOps with AWS and Kubernetes (optional)
 
 1. [NGINX Fundamentals: High Performance Servers from Scratch](https://www.udemy.com/course/nginx-fundamentals/)
 2. [Docker for the Absolute Beginner - Hands On - DevOps](https://www.udemy.com/course/learn-docker/)
@@ -59,8 +61,6 @@ This guide is divited into 4 sections:
 4. [Kubernetes Certified Application Developer (CKAD) with Tests](https://www.udemy.com/course/certified-kubernetes-application-developer/)
 5. [Ultimate AWS Certified Developer Associate](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
 6. [Microservices with Node JS and React](https://www.udemy.com/course/microservices-with-node-js-and-react/)
-7. [Cloud Engineer Professional Certificate](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
-8. [Developing Applications with Google Cloud Specialization](https://www.coursera.org/specializations/developing-apps-gcp)
 
 ### Notes
 
