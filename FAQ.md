@@ -31,7 +31,7 @@ Once you get a job and get some hands on experience on a real world project, the
 <details>
   <summary>What is this DevOps stuff and do I have to care about it?</summary>
   
-As a junior developer, you don't have to care about it. but as you advance in your career, especially if you want to reach Senior level then you need to undertand DevOps, I'd say don't worry about it for now. I have added them here just for completeness.
+As a junior developer, you don't have to care about it but as you advance in your career, especially if you want to reach Senior level then you need to undertand DevOps, I'd say don't worry about it for now. I have added them here just for completeness.
 
 DevOps will allow you to answer the question: _How do I deploy a large scale application to production and keep it running?_
 
@@ -40,7 +40,7 @@ DevOps will allow you to answer the question: _How do I deploy a large scale app
 <details>
   <summary>This is all great, but how long will take me to finish all these courses?</summary>
 
-This depends on many factors like your problem solving skills and your ability to stay focused for long period of times. but I'd say roughly 8 to 12 months.
+This depends on many factors like your problem solving skills and your ability to stay focused for long period of time. but I'd say roughly 8 to 12 months.
 
 </details>
 
@@ -49,7 +49,7 @@ This depends on many factors like your problem solving skills and your ability t
 
 No, absolutley not! This list is meant to take someone who doesn't know anything about programming to being ready for a junior role.
 
-All you need to know is a computer, an internet connection and the determination to learn (a lot)
+All you need is a computer, an internet connection and the determination to learn (a lot).
 
 </details>
 
@@ -81,26 +81,37 @@ No, any computer will do with any operating system.
 <details>
   <summary>Do I need to pay for any tools to use to do programming?</summary>
 
-No, all the tools we use in tech are generally free and you don't have to pay for anything (except the courses above of course)
+No, all the tools we use in tech are generally free and you don't have to pay for anything (except the courses above of course).
 
 </details>
 
 <details>
   <summary>I didn't even finish high school, How am I gonna do programming, isn't that hard?</summary>
 
-Well Yes and No, It's hard in the sense it requires determination and focus and long term planning (meaning you will not become a developer overnight, but with time)
-and it's not hard in the sense that it doesn't require you to be a colleage grade or have any specific ability, just the ability to sit down (or stand up) and focus!
+Well Yes and No, It's hard in the sense it requires determination and focus and long term planning (meaning you will not become a developer overnight, but with time).
+
+And it's not hard in the sense that it doesn't require you to be a colleage grade or have any specific ability, just the ability to sit down (or stand up) and focus!
 
 Anybody can be a programmer with the right determination. Of course it will be easier for some people and harder for some people but anybody can do it.
 
 </details>
 
 <details>
-  <summary>why is everything in JavaScript, I heard X is a cool programming langauge?</summary>
+  <summary>Why is everything in JavaScript, I heard X is a cool programming langauge?</summary>
 
-Well you heard right, there are many cool programming languages but JavaScript (a scripting language) is the language of the web meaning in order to do frontend you must use JavaScript.
-and you can also use it on the backend which is great. 2 birds with one stone.
+Well you heard right, there are many cool programming languages but JavaScript (a scripting language) is the language of the web meaning in order to do frontend you must use JavaScript and you can also use it on the backend which is great. 2 birds with one stone.
+
 Once you get a job in the field then you can explore all the languages that you want but for now my recommendation is to start with JavaScript.
+
+</details>
+
+<details>
+  <summary>Can I use the projects from the courses in my portfolio?</summary>
+
+Technically speaking, you need to ask the course provider for permission in order to do that.
+
+With that out of the way, I don't recommend doing that as you didn't really build the project from scratch but you were following a tutorial and most of the problems that you would usually face on a project were solved for you by the teacher.
+The value in building something new on your own from scratch is that you get to face solve real world technical issues and this is where most of your learning happens.. _By Solving Problems_
 
 </details>
 
