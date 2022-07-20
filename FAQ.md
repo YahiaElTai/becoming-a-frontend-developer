@@ -115,8 +115,17 @@ The value in building something new on your own from scratch is that you get to 
 
 </details>
 
+<details>
+  <summary>Do you have a list of interview questions I can look at?</summary>
+
+Sure you can check this link below, filter by the language/framework you are using.
+
+[awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
+
+</details>
+
 ---
 
 **I have another question, can I ask you?**
 
-Sure, you can create an [an issue](https://github.com/YahiaElTai/becoming-a-frontend-developer/issues/new) and I will try to answer as soon as I can.
+Sure, you can create [an issue](https://github.com/YahiaElTai/becoming-a-frontend-developer/issues/new) and I will try to answer as soon as I can.
