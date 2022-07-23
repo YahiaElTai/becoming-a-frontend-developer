@@ -1,25 +1,26 @@
-# Becoming a frontend developer
+## Becoming a frontend developer
 
 This guide is meant to be used by anyone interested in becoming a frontend developer
 
-## What is frontend, backend and full-stack?
+### What is frontend, backend and full-stack?
 🔥 **Frontend developers** 
     
-    build the front-end portion of websites and web applications—that is, the part that users actually see and interact with. front-end developes create websites and applications using web languages such as HTML, CSS, and JavaScript allow users to access and interact with the site or app.
+build the front-end portion of websites and web applications—that is, the part that users actually see and interact with. front-end developes create websites and applications using web languages such as HTML, CSS, and JavaScript allow users to access and interact with the site or app.
 
 🔥 **Backend developers** 
     
-    are responsible for creating and maintaining the entire back end of a web application. This includes the core application logic, databases, data and application integration, API, and other back end processes.
+are responsible for creating and maintaining the entire back end of a web application. This includes the core application logic, databases, data and application integration, API, and other back end processes.
 
 🔥 **Fullstack developer** 
     
-    is someone who knows both frontend and backend development.
+is someone who knows both frontend and backend development.
+
 
 > The easiest way to get into the tech industry is frontend which is what this guide suggests and then once.
 
 you advance in your career you can choose to stay on the frontend, move to the backend or become a full-stack developer.
 
-## How to use this guide
+### How to use this guide
 
 This guide is divided into 4 sections (areas of code) spanning over 3 levels (Junior, Mid-level and Senior) of frontend development
 
@@ -28,7 +29,7 @@ Each level is color coded:
 - Mid-level 🟡
 - Senior 🔴 
 
-### Steps to follow 
+#### Steps to follow 
 1) Go through all the courses marked as junior in all the sections following the order described.
 2) Build your resume and a strong portfolio and get a job as a *junior frontend developer*
    - You need a lot of practice by building a few small projects or one big project as a porfolio to impress recruiters.
@@ -43,7 +44,7 @@ Each level is color coded:
 
 refer to the [Frequently Asked Questions](/FAQ.md) for more information.
 
-## Courses List
+### Courses List
 
 This guide is divited into 4 sections:
 
@@ -54,7 +55,7 @@ This guide is divited into 4 sections:
 
 > Just because is a course marked as mid-level or or senior, it doesn' mean that it is difficult, it just means that you don't need it at this stage
 
-## Frontend Basics
+### Frontend Basics
 
 1. 🟢 [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3)
 2. 🟢 [Web Design for Web Developers: Build Beautiful Websites](https://www.udemy.com/course/web-design-secrets/)
@@ -69,7 +70,7 @@ This guide is divited into 4 sections:
 11. 🟢 [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/)
 12. 🟡 [JavaScript: The Advanced Concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
 
-## Frontend with React
+### Frontend with React
 
 1. 🟢 [React - The Complete Guide (inch Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 2. 🟢 [The Complete React Developer Course (w/ Hooks and Redux)](https://www.udemy.com/course/react-2nd-edition/)
@@ -78,7 +79,7 @@ This guide is divited into 4 sections:
 5. 🟢 [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)
 6. 🟢 [Clean Code](https://www.udemy.com/course/writing-clean-code/)
 
-## Backend with NodeJS
+### Backend with NodeJS
 
 > NodeJS is a JavaScript runtime that allows you to write JS on the backend, meaning you don't have to learn another language to build a full stack project.
 
@@ -92,7 +93,7 @@ This guide is divited into 4 sections:
 8. 🟡 [SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql/)
 9. 🟡 [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)
 
-## DevOps
+### DevOps
 
 1. 🟡 [Docker for the Absolute Beginner - Hands On - DevOps](https://www.udemy.com/course/learn-docker/)
 2. 🟡 [Kubernetes for the Absolute Beginners - Hands-on](https://www.udemy.com/course/learn-kubernetes/)
@@ -105,13 +106,13 @@ This guide is divited into 4 sections:
 9. 🔴 [Kubernetes Certified Application Developer (CKAD) with Tests](https://www.udemy.com/course/certified-kubernetes-application-developer/)
 
 
-### Notes about the courses
+**Notes about the courses**
 
 - Most of the courses on this list are either from [udemy.com](udemy.com) or [coursera.org](coursera.org).
 - Courses on Udemy are paid but udemy runs discounts quite regularly.
 - Courses on Coursera are free generally, you only have to pay if you need the certifcate (between you and me, you don't need that..).
 
-## Practice
+### Practice
 
 None of this means anything if you don't practice on your own by building projects. Following tutorials is great but this is not where most of your learning will happen. You learn by building. Let me repeat that, _You learn by building_.
 
@@ -121,4 +122,4 @@ You can find many ideas on the web on projects to build to practice but here's 2
 
 - [https://github.com/practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 
-## [Frequently Asked Questions](/FAQ.md)
+### [Frequently Asked Questions](/FAQ.md)
