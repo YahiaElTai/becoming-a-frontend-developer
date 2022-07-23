@@ -1,6 +1,6 @@
 ## Becoming a frontend developer
 
-This guide is meant to be used by anyone interested in becoming a frontend developer
+This guide is meant to be used by anyone interested in becoming a frontend developer.
 
 ### What is frontend, backend and full-stack?
 🔥 **Frontend developers** 
@@ -9,16 +9,16 @@ build the front-end portion of websites and web applications—that is, the part
 
 🔥 **Backend developers** 
     
-are responsible for creating and maintaining the entire back end of a web application. This includes the core application logic, databases, data and application integration, API, and other back end processes.
+create and maintain the entire back end of a web application. This includes the core application logic, databases, data and application integration, API, and other back end processes.
 
-🔥 **Fullstack developer** 
+🔥 **Fullstack developers** 
     
-is someone who knows both frontend and backend development.
+Frontend + backend = fullstack developer
 
 
 > The easiest way to get into the tech industry is frontend which is what this guide suggests and then once.
 
-you advance in your career you can choose to stay on the frontend, move to the backend or become a full-stack developer.
+As you advance in your career, you can choose to stay on the frontend, move to the backend or become a full-stack developer.
 
 ### How to use this guide
 
@@ -34,13 +34,13 @@ Each level is color coded:
 2) Build your resume and a strong portfolio and get a job as a *junior frontend developer*
    - You need a lot of practice by building a few small projects or one big project as a porfolio to impress recruiters.
    - Do not waste time with any more courses, get a job!
-3) Congrats on the job! As soon as you feel slightly comfortable at your job (6 months to a year) come back to this guide and finish all courses marked as Mid-level in all the sections
-   - By the time you finish those courses you would have been at your company for about 2 to 3 years and probably gotten promoted to Mid-level frontend developer
+3) Congrats on the job! As soon as you feel slightly comfortable at your job (6 months to a year) come back to this guide and finish all courses marked as Mid-level in all the sections.
+   - By the time you finish those courses you would have been at your company for about 2 to 3 years and probably gotten promoted to Mid-level frontend developer.
 4) After 2 to 3 years of experience you can come back to this guide again and finish all the courses marked as senior in all the sections
-   -  By the time you finished the courses marked as senior you would have been at your company for 4 to 5 years and probably gotten promoted to senior frontend developer
-   -  You are now a senior frontend developer but also a mid-level full-stack JavaScript developer 
+   -  By the time you finished the courses marked as senior you would have been at your company for 4 to 5 years and probably gotten promoted to senior frontend developer.
+   -  You are now a senior frontend developer but also a mid-level full-stack JavaScript developer.
    -  You can choose to stay on the frontend side and become more senior or move to the backend or full-stack.
-   -  Note that at this stage you are a senior frontend but not necessarily a senior backend or a senior full-stack developer (getting to that would require experience building full-stack apps or backend apps)
+   -  Note that at this stage you are a senior frontend but not necessarily a senior backend or a senior full-stack developer. (getting to that would require experience building full-stack apps or backend apps)
 
 refer to the [Frequently Asked Questions](/FAQ.md) for more information.
 
