@@ -17,18 +17,6 @@ The backend is a vast field and quite complex but the courses above are meant to
 </details>
 
 <details>
-  <summary>Which courses are a must in order to get a job as a junior frontend developer?</summary>
-  
-Good question, Sections 1 and 2 are of course required and the first course in section 3.
-After you finish that, you need to practice by building projects, preferably something large to impress recruiters.
-
-You can find many resources on Google on how to build a portfolio as a frontend developer and where to apply for job and prepare for the interview. I won't go into that here as the web is oversaturated with this information and you can easily find it.
-
-Once you get a job and get some hands on experience on a real world project, then you can come back to the list and finish the rest of the courses in the backend section
-
-</details>
-
-<details>
   <summary>What is this DevOps stuff and do I have to care about it?</summary>
   
 As a junior developer, you don't have to care about it but as you advance in your career, especially if you want to reach Senior level then you need to undertand DevOps, I'd say don't worry about it for now. I have added them here just for completeness.
