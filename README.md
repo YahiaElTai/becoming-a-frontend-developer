@@ -3,18 +3,18 @@
 This guide is meant to be used by anyone interested in becoming a frontend developer.
 
 ### What is frontend, backend and full-stack?
-🔥 **Frontend developers** 
-    
+
+🔥 **Frontend developers**
+
 build the front-end portion of websites and web applications—that is, the part that users actually see and interact with. front-end developes create websites and applications using web languages such as HTML, CSS, and JavaScript allow users to access and interact with the site or app.
 
-🔥 **Backend developers** 
-    
+🔥 **Backend developers**
+
 create and maintain the entire back end of a web application. This includes the core application logic, databases, data and application integration, API, and other back end processes.
 
-🔥 **Fullstack developers** 
-    
-Frontend + backend = fullstack developer
+🔥 **Fullstack developers**
 
+Frontend + backend = fullstack developer
 
 > The easiest way to get into the tech industry is frontend which is what this guide suggests and then once.
 
@@ -25,22 +25,24 @@ As you advance in your career, you can choose to stay on the frontend, move to t
 This guide is divided into 4 sections (areas of code) spanning over 3 levels (Junior, Mid-level and Senior) of frontend development
 
 Each level is color coded:
+
 - Junior 🟢
 - Mid-level 🟡
-- Senior 🔴 
+- Senior 🔴
 
-#### Steps to follow 
-1) Go through all the courses marked as junior in all the sections following the order described.
-2) Build your resume and a strong portfolio and get a job as a *junior frontend developer*
+#### Steps to follow
+
+1. Go through all the courses marked as junior in all the sections following the order described.
+2. Build your resume and a strong portfolio and get a job as a _junior frontend developer_
    - You need a lot of practice by building a few small projects or one big project as a porfolio to impress recruiters.
    - Do not waste time with any more courses, get a job!
-3) Congrats on the job! As soon as you feel slightly comfortable at your job (6 months to a year) come back to this guide and finish all courses marked as Mid-level in all the sections.
+3. Congrats on the job! As soon as you feel slightly comfortable at your job (6 months to a year) come back to this guide and finish all courses marked as Mid-level in all the sections.
    - By the time you finish those courses you would have been at your company for about 2 to 3 years and probably gotten promoted to Mid-level frontend developer.
-4) After 2 to 3 years of experience you can come back to this guide again and finish all the courses marked as senior in all the sections
-   -  By the time you finished the courses marked as senior you would have been at your company for 4 to 5 years and probably gotten promoted to senior frontend developer.
-   -  You are now a senior frontend developer but also a mid-level full-stack JavaScript developer.
-   -  You can choose to stay on the frontend side and become more senior or move to the backend or full-stack.
-   -  Note that at this stage you are a senior frontend but not necessarily a senior backend or a senior full-stack developer. (getting to that would require experience building full-stack apps or backend apps)
+4. After 2 to 3 years of experience you can come back to this guide again and finish all the courses marked as senior in all the sections
+   - By the time you finished the courses marked as senior you would have been at your company for 4 to 5 years and probably gotten promoted to senior frontend developer.
+   - You are now a senior frontend developer but also a mid-level full-stack JavaScript developer.
+   - You can choose to stay on the frontend side and become more senior or move to the backend or full-stack.
+   - Note that at this stage you are a senior frontend but not necessarily a senior backend or a senior full-stack developer. (getting to that would require experience building full-stack apps or backend apps)
 
 refer to the [Frequently Asked Questions](/FAQ.md) for more information.
 
@@ -48,7 +50,7 @@ refer to the [Frequently Asked Questions](/FAQ.md) for more information.
 
 This guide is divited into 4 sections:
 
-1. [Frontend Basics](#frontend-basics) 
+1. [Frontend Basics](#frontend-basics)
 2. [Frontend with React](#frontend-with-react)
 3. [Backend with Nodejs](#backend-with-nodejs)
 4. [DevOps](#devops)
@@ -73,10 +75,10 @@ This guide is divited into 4 sections:
 ### Frontend with React
 
 1. 🟢 [React - The Complete Guide (inch Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
-2. 🟢 [The Complete React Developer Course (w/ Hooks and Redux)](https://www.udemy.com/course/react-2nd-edition/)
+2. 🟢 [React Front To Back 2022](https://www.udemy.com/course/react-front-to-back-2022/)
 3. 🟢 [JavaScript Unit Testing - The Practical Guide](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/)
 4. 🟢 [Testing React with Jest and React Testing Library (RTL)](https://www.udemy.com/course/react-testing-library/)
-5. 🟢 [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)
+5. 🟢 [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide)
 6. 🟢 [Clean Code](https://www.udemy.com/course/writing-clean-code/)
 
 ### Backend with NodeJS
@@ -104,7 +106,6 @@ This guide is divited into 4 sections:
 7. 🔴 [Cloud Engineer Professional Certificate](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
 8. 🔴 [Developing Applications with Google Cloud Specialization](https://www.coursera.org/specializations/developing-apps-gcp)
 9. 🔴 [Kubernetes Certified Application Developer (CKAD) with Tests](https://www.udemy.com/course/certified-kubernetes-application-developer/)
-
 
 **Notes about the courses**
 
