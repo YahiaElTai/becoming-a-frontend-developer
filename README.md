@@ -24,7 +24,6 @@ This guide is divided into 4 sections (areas of code) spanning over 3 levels (Be
 5. 🔵 [Advanced CSS and Sass: Flexbox, Grid, Animations and More](https://www.udemy.com/course/advanced-css-and-sass/)
 6. 🔵 [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
 7. 🔵 [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
-8. 🔵 [Understanding HTML and CSS](https://www.udemy.com/course/understanding-html-and-css/)
 
 ### Frontend with React
 
