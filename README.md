@@ -2,18 +2,9 @@
 
 This guide is divided into 4 sections (areas of code) spanning over 3 levels (Beginner, intermediate, Advanced) of web development.
 
-- Beginner 🔵
-- Intermediate 🟡
-- Advanced 🟣
-
-### Courses List
-
-1. [Frontend Basics](#frontend-basics)
-2. [Frontend with React](#frontend-with-react)
-3. [Backend with Nodejs](#backend-with-nodejs)
-4. [DevOps](#devops)
-
-> Just because is a course marked as mid-level or or senior, it doesn' mean that it is difficult, it just means that you don't need it at this stage
+- 🔵 Beginner
+- 🟡 Intermediate
+- 🟣 Advanced
 
 ### Frontend Basics
 
@@ -34,8 +25,6 @@ This guide is divided into 4 sections (areas of code) spanning over 3 levels (Be
 5. 🟡 [React and Typescript: Build a Portfolio Project](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/)
 
 ### Backend with NodeJS
-
-> NodeJS is a JavaScript runtime that allows you to write JS on the backend, meaning you don't have to learn another language to build a full stack project.
 
 1. 🔵 [Node.js, Express, MongoDB & More: The Complete Bootcamp 2022](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)
 2. 🔵 [Node with React: Fullstack Web Development](https://www.udemy.com/course/node-with-react-fullstack-web-development/)
