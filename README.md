@@ -32,8 +32,8 @@ This guide is divided into 4 sections (areas of code) spanning over 3 levels (Be
 
 ### DevOps
 
-1. 🟡 [Docker for the Absolute Beginner - Hands On - DevOps](https://www.udemy.com/course/learn-docker/)
+1. 🟡 [Docker for the Absolute Beginner - Hands On](https://www.udemy.com/course/learn-docker/)
 2. 🟡 [Kubernetes for the Absolute Beginners - Hands-on](https://www.udemy.com/course/learn-kubernetes/)
-3. 🟣 [Microservices with Node JS and React](https://www.udemy.com/course/microservices-with-node-js-and-react/)
-4. 🟣 [Ultimate AWS Certified Developer Associate](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
-5. 🟣 [Kubernetes Certified Application Developer (CKAD) with Tests](https://www.udemy.com/course/certified-kubernetes-application-developer/)
+3. 🟡 [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
+4. 🟣 [GCP Associate Cloud Engineer - Google Cloud Certification](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/)
+5. 🟣 [Kubernetes Certified Application Developer (CKAD)](https://www.udemy.com/course/certified-kubernetes-application-developer/)
