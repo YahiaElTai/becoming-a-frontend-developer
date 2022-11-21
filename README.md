@@ -31,7 +31,7 @@ This guide is divided into 4 sections (areas of code) spanning over 3 levels (Be
 3. 🟡 [Node JS: Advanced Concepts](https://www.udemy.com/course/advanced-node-for-developers/)
 
 ### DevOps
-
+1. 🟡 [Linux Mastery: Master the Linux Command Line in 11.5 Hours](https://www.udemy.com/course/linux-mastery/)
 1. 🟡 [Docker for the Absolute Beginner - Hands On](https://www.udemy.com/course/learn-docker/)
 2. 🟡 [Kubernetes for the Absolute Beginners - Hands-on](https://www.udemy.com/course/learn-kubernetes/)
 3. 🟡 [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
