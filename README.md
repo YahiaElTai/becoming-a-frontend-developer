@@ -20,7 +20,7 @@ This guide is divided into 4 sections (areas of code) spanning over 3 levels (Be
 
 1. 🔵 [Modern React with Redux](https://www.udemy.com/course/react-redux/)
 2. 🔵 [React Front To Back 2022](https://www.udemy.com/course/react-front-to-back-2022/)
-3. 🔵 [Testing React with Jest and React Testing Library (RTL)](https://www.udemy.com/course/react-testing-library/)
+3. 🔵 [React Testing Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd)
 4. 🔵 [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide)
 5. 🟡 [React and Typescript: Build a Portfolio Project](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/)
 
