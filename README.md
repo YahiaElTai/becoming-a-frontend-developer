@@ -37,3 +37,7 @@ This guide is divided into 4 sections (areas of code) spanning over 3 levels (Be
 4. 🟣 [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
 5. 🟣 [GCP Associate Cloud Engineer - Google Cloud Certification](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/)
 6. 🟣 [Kubernetes Certified Application Developer (CKAD)](https://www.udemy.com/course/certified-kubernetes-application-developer/)
+
+
+### Process
+1. 🔵 [Agile Fundamentals: Including Scrum and Kanban - 2022](https://www.udemy.com/course/agile-fundamentals-scrum-kanban-scrumban/)
