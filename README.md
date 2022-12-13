@@ -5,6 +5,7 @@
 - These courses should be complemented with a lot of practice by building projects on your own without a tutorial.
 - After finishing the beginner and intermediate sections you should be ready to apply for jobs as a Junior Frontend Developer.
 - It is also recommended to have a portfolio website showcasing your projects on Github.
+- Come back for the advanced courses after getting a job and having 1 to 2 years of experience.
 
 #### Levels
 
@@ -45,6 +46,7 @@
 4. 🟡 [GraphQL Crash Course With Full Stack MERN Project](https://www.youtube.com/watch?v=BcLNfwF04Kw)
 5. 🟣 [Fullstack React GraphQL TypeScript Tutorial](https://www.youtube.com/watch?v=I6ypD7qv3Z8)
 6. 🟣 [Node JS: Advanced Concepts](https://www.udemy.com/course/advanced-node-for-developers/)
+7. 🟣 [SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql/)
 
 ## 5. DevOps
 
