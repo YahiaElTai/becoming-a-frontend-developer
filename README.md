@@ -5,7 +5,7 @@
 - These courses should be complemented with a lot of practice by building projects on your own without a tutorial.
 - After finishing the beginner and intermediate sections you should be ready to apply for jobs as a Junior Frontend Developer.
 - It is also recommended to have a portfolio website showcasing your projects on Github.
-- Come back for the advanced courses after getting a job and having 1 to 2 years of experience.
+- Come back for the advanced courses after getting a job and having 2 to 3 years of experience.
 
 #### Levels
 
