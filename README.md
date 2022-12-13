@@ -51,10 +51,11 @@
 1. 🟡 [The Linux Command Line Bootcamp: Beginner To Power User](https://www.udemy.com/course/the-linux-command-line-bootcamp/)
 2. 🟡 [DevOps Pre-Requisite Course](https://kodekloud.com/courses/devops-pre-requisite-course/)
 3. 🟡 [Docker for the Absolute Beginner - Hands On](https://www.udemy.com/course/learn-docker/)
-4. 🟣 [Kubernetes for the Absolute Beginners - Hands-on](https://www.udemy.com/course/learn-kubernetes/)
-5. 🟣 [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
-6. 🟣 [Kubernetes Certified Application Developer (CKAD)](https://www.udemy.com/course/certified-kubernetes-application-developer/)
-7. 🟣 [GCP Associate Cloud Engineer - Google Cloud Certification](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/)
+4. 🟡 [GitHub Actions - The Complete Guide](https://www.udemy.com/course/github-actions-the-complete-guide/)
+5. 🟣 [Kubernetes for the Absolute Beginners - Hands-on](https://www.udemy.com/course/learn-kubernetes/)
+6. 🟣 [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
+7. 🟣 [Kubernetes Certified Application Developer (CKAD)](https://www.udemy.com/course/certified-kubernetes-application-developer/)
+8. 🟣 [GCP Associate Cloud Engineer - Google Cloud Certification](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/)
 
 ## 6. Misc: Recommended YouTube Videos
 
