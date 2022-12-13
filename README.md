@@ -1,9 +1,9 @@
 <h2 align="center">🔥 Becoming a Frontend Develooper 🔥</h2>
 
 - This guide is divided into 6 sections (areas of code) spanning over 3 levels (Beginner, intermediate, Advanced) of web development.
-- It is recommended to go through the sections top to bottom following the color coded levels
+- It is recommended to go through the sections top to bottom following the color coded levels.
 - These courses should be complemented with a lot of practice by building projects on your own without a tutorial.
-- After finishing the beginner and intermediate sections you should be ready to apply for jobs as a Junior Frontend Developer
+- After finishing the beginner and intermediate sections you should be ready to apply for jobs as a Junior Frontend Developer.
 - It is also recommended to have a portfolio website showcasing your projects on Github.
 
 #### Levels
@@ -18,14 +18,14 @@
 
 ## 2. Frontend Fundamentals
 
-3. 🔵 [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3)
-4. 🔵 [Web Design for Web Developers: Build Beautiful Websites](https://www.udemy.com/course/web-design-secrets/)
-5. 🔵 [The Complete JavaScript Course 2022: From Zero to Expert](https://www.udemy.com/course/the-complete-javascript-course/)
-6. 🔵 [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/)
-7. 🔵 [Advanced CSS and Sass: Flexbox, Grid, Animations and More](https://www.udemy.com/course/advanced-css-and-sass/)
-8. 🔵 [roadmap.sh Frontend Roadmap: Modern CSS](https://roadmap.sh/frontend)
-9. 🔵 [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
-10. 🔵 [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
+1. 🔵 [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3)
+2. 🔵 [Web Design for Web Developers: Build Beautiful Websites](https://www.udemy.com/course/web-design-secrets/)
+3. 🔵 [The Complete JavaScript Course 2022: From Zero to Expert](https://www.udemy.com/course/the-complete-javascript-course/)
+4. 🔵 [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/)
+5. 🔵 [Advanced CSS and Sass: Flexbox, Grid, Animations and More](https://www.udemy.com/course/advanced-css-and-sass/)
+6. 🔵 [roadmap.sh Frontend Roadmap: Modern CSS](https://roadmap.sh/frontend)
+7. 🔵 [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+8. 🔵 [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
 
 ## 3. Frontend with React
 
