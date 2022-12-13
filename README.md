@@ -1,7 +1,6 @@
 ### How to use this guide
 
 - This guide is divided into 6 sections (areas of code) spanning over 3 levels (Beginner, intermediate, Advanced) of web development.
-- Sections
 - It is recommended to go through the sections top to bottom following the color coded levels
 - These courses should be complemented with a lot of practice by building projects on your own without a tutorial.
 - After finishing the beginner and intermediate sections you should be ready to apply for jobs as a Junior Frontend Developer
@@ -11,22 +10,22 @@
 - 🟡 Intermediate
 - 🟣 Advanced
 
-### 1. Internet Basics
+#### 1. Internet Basics
 
 1. 🔵 [roadmap.sh Frontend Roadmap: Internet section](https://roadmap.sh/frontend)
 
-### 2. Frontend Fundamentals
+#### 2. Frontend Fundamentals
 
-1. 🔵 [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3)
-2. 🔵 [Web Design for Web Developers: Build Beautiful Websites](https://www.udemy.com/course/web-design-secrets/)
-3. 🔵 [The Complete JavaScript Course 2022: From Zero to Expert](https://www.udemy.com/course/the-complete-javascript-course/)
-4. 🔵 [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/)
-5. 🔵 [Advanced CSS and Sass: Flexbox, Grid, Animations and More](https://www.udemy.com/course/advanced-css-and-sass/)
-6. 🔵 [roadmap.sh Frontend Roadmap: Modern CSS](https://roadmap.sh/frontend)
-7. 🔵 [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
-8. 🔵 [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
+3. 🔵 [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3)
+4. 🔵 [Web Design for Web Developers: Build Beautiful Websites](https://www.udemy.com/course/web-design-secrets/)
+5. 🔵 [The Complete JavaScript Course 2022: From Zero to Expert](https://www.udemy.com/course/the-complete-javascript-course/)
+6. 🔵 [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/)
+7. 🔵 [Advanced CSS and Sass: Flexbox, Grid, Animations and More](https://www.udemy.com/course/advanced-css-and-sass/)
+8. 🔵 [roadmap.sh Frontend Roadmap: Modern CSS](https://roadmap.sh/frontend)
+9. 🔵 [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+10. 🔵 [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
 
-### 3. Frontend with React
+#### 3. Frontend with React
 
 1.  🔵 [Modern React with Redux](https://www.udemy.com/course/react-redux/)
 2.  🔵 [React Front To Back 2022](https://www.udemy.com/course/react-front-to-back-2022/)
@@ -36,7 +35,7 @@
 6.  🟡 [React Testing Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd)
 7.  🟡 [Testing React with Jest and React Testing Library (RTL)](https://www.udemy.com/course/react-testing-library/)
 
-### 4. Backend with NodeJS
+#### 4. Backend with NodeJS
 
 1. 🔵 [Node.js, Express, MongoDB & More: The Complete Bootcamp 2022](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)
 2. 🔵 [Node with React: Fullstack Web Development](https://www.udemy.com/course/node-with-react-fullstack-web-development/)
@@ -45,7 +44,7 @@
 5. 🟣 [Fullstack React GraphQL TypeScript Tutorial](https://www.youtube.com/watch?v=I6ypD7qv3Z8)
 6. 🟣 [Node JS: Advanced Concepts](https://www.udemy.com/course/advanced-node-for-developers/)
 
-### 5. DevOps
+#### 5. DevOps
 
 1. 🟡 [The Linux Command Line Bootcamp: Beginner To Power User](https://www.udemy.com/course/the-linux-command-line-bootcamp/)
 2. 🟡 [DevOps Pre-Requisite Course](https://kodekloud.com/courses/devops-pre-requisite-course/)
@@ -55,7 +54,7 @@
 6. 🟣 [Kubernetes Certified Application Developer (CKAD)](https://www.udemy.com/course/certified-kubernetes-application-developer/)
 7. 🟣 [GCP Associate Cloud Engineer - Google Cloud Certification](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/)
 
-### 6. Misc: Recommended YouTube Videos
+#### 6. Misc: Recommended YouTube Videos
 
 > This section contains short videos and not courses like the above section and it can be in done in parallel with sections 2 through 4.
 
@@ -79,13 +78,13 @@
 18. 🔵 [Differences Between Var, Let, and Const](https://www.youtube.com/watch?v=9WIJQDvt4Us)
 19. 🔵 [The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U)
 
-### 7. Team Process
+#### 7. Team Process
 
 > This course will help you understand how teams work in tech companies (useful information for interviews).
 
 1. 🔵 [Agile Fundamentals: Including Scrum and Kanban - 2022](https://www.udemy.com/course/agile-fundamentals-scrum-kanban-scrumban/)
 
-### Recommended Youtube Channels
+#### Recommended Youtube Channels
 
 > These YouTube channels helps to stay updated with web development in general.
 
