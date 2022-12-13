@@ -81,7 +81,8 @@
 16. 🔵 [Reference Vs Value In JavaScript](https://www.youtube.com/watch?v=-hBJz2PPIVE)
 17. 🔵 [Watch This If You Don’t Understand Type Coercion](https://www.youtube.com/watch?v=GKJh3vdat8A)
 18. 🔵 [Differences Between Var, Let, and Const](https://www.youtube.com/watch?v=9WIJQDvt4Us)
-19. 🔵 [The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U)
+19. 🔵 [DevOps CI/CD Explained in 100 Seconds](https://www.youtube.com/watch?v=scEDHsr3APg)
+20. 🔵 [The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U)
 
 ## 7. Team Process
 
