@@ -50,7 +50,7 @@
 7. 🟣 [Node JS: Advanced Concepts](https://www.udemy.com/course/advanced-node-for-developers/)
 8. 🟣 [roadmap.sh: Backend Roadmap: Explore](https://roadmap.sh/backend)
 
-## 5. [Frontend Misc](/Frontend-Misc.md)
+## 5. [Misc: Frontend](/Frontend-Misc.md)
 
 > This section contains short videos and articles not courses like the above sections and it should be in done in parallel with sections 2 through 4.
 
@@ -77,24 +77,8 @@
 
 1. 🔵 [Agile Fundamentals: Including Scrum and Kanban - 2022](https://www.udemy.com/course/agile-fundamentals-scrum-kanban-scrumban/)
 
-## Youtube Channels
-
-> These YouTube channels help to stay up to date with web development in general.
-
-- Fireship
-- Travesy Media
-- Codevolution
-- Ben Awad
-- Web Dev Simplified
-- Theo - ping․gg
-- developedbyed
-- Chris Hawkes
-- JSConf
-- ThePrimeagen
-- Hussein Nasser
-- Coding Tech
-- GoTo conferences
-
 ---
 
-If you have any questions, please open an [issue](https://github.com/YahiaElTai/becoming-a-frontend-developer/issues/new)
+> These [YouTube channels](/Youtube-Channels.md) help to stay up to date with web development in general.
+
+> If you have any questions, please open an [issue](https://github.com/YahiaElTai/becoming-a-frontend-developer/issues/new)

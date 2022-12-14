@@ -1,5 +1,7 @@
 ## Frontend Misc
 
+> This section contains short videos and articles not courses like the above sections and it should be in done in parallel with sections 2 through 4.
+
 1. 🔵 [roadmap.sh Frontend Roadmap: Web Security Knowledge & Package Managers & Build Tools sections only](https://roadmap.sh/frontend)
 2. 🔵 [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 3. 🔵 [What Is A RESTful API? Explanation of REST & HTTP](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
