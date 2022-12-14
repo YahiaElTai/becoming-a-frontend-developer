@@ -1,7 +1,7 @@
 <h2 align="center">🔥 Becoming a Frontend Develooper 🔥</h2>
 
-- This guide is divided into 6 sections (areas of code) spanning over 3 levels (Beginner, intermediate, Advanced) of web development.
-- It is recommended to go through the sections top to bottom following the color coded levels.
+- This guide is divided into 7 sections spanning over 3 levels (Beginner, intermediate, Advanced) of web development.
+- It is recommended to go through the sections top to bottom following the color coded levels meaning (meaning work through all 🔵 courses in all sections and then 🟡 courses)
 - These courses should be complemented with a lot of practice by building projects on your own without a tutorial.
 - After finishing the beginner and intermediate sections you should be ready to apply for jobs as a Junior Frontend Developer.
 - It is also recommended to have a portfolio website showcasing your projects on Github.
@@ -13,7 +13,7 @@
 - 🟡 Intermediate
 - 🟣 Advanced
 
-## 1. Internet Basics
+## 1. Internet Fundamentals
 
 1. 🔵 [roadmap.sh Frontend Roadmap: Internet section](https://roadmap.sh/frontend)
 
@@ -59,9 +59,9 @@
 7. 🟣 [Kubernetes Certified Application Developer (CKAD)](https://www.udemy.com/course/certified-kubernetes-application-developer/)
 8. 🟣 [GCP Associate Cloud Engineer - Google Cloud Certification](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/)
 
-## 6. Misc: Recommended YouTube Videos
+## 6. Misc
 
-> This section contains short videos and not courses like the above section and it can be in done in parallel with sections 2 through 4.
+> This section contains short videos and articles not courses like the above sections and it should be in done in parallel with sections 2 through 4.
 
 1. 🔵 [roadmap.sh Frontend Roadmap: Web Security Knowledge](https://roadmap.sh/frontend)
 2. 🔵 [roadmap.sh Frontend Roadmap: Package Managers](https://roadmap.sh/frontend)
@@ -86,13 +86,13 @@
 
 ## 7. Team Process
 
-> This course will help you understand how teams work in tech companies (useful information for interviews).
+> This section will help you understand how teams work in tech companies (useful information for interviews).
 
 1. 🔵 [Agile Fundamentals: Including Scrum and Kanban - 2022](https://www.udemy.com/course/agile-fundamentals-scrum-kanban-scrumban/)
 
-## Recommended Youtube Channels
+## Youtube Channels
 
-> These YouTube channels helps to stay updated with web development in general.
+> These YouTube channels help to stay up to date with web development in general.
 
 - Fireship
 - Travesy Media
@@ -107,3 +107,7 @@
 - Hussein Nasser
 - Coding Tech
 - GoTo conferences
+
+---
+
+If you have any questions, please open an [issue](https://github.com/YahiaElTai/becoming-a-frontend-developer/issues/new)
