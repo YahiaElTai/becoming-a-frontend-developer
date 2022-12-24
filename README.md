@@ -65,11 +65,8 @@
 7. 🟣 [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
 8. 🟣 [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 9. 🟣 [Kubernetes Certified Application Developer (CKAD)](https://www.udemy.com/course/certified-kubernetes-application-developer/)
-10. 🔴 [Microservices with Node JS and React](https://www.udemy.com/course/microservices-with-node-js-and-react/)
-11. 🔴 [GCP Associate Cloud Engineer - Google Cloud Certification](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/)
-12. 🔴 [Cloud Architect Learning Path](https://www.cloudskillsboost.google/paths/12)
-13. 🔴 [Scalability & System Design for Developers](https://www.educative.io/path/scalability-system-design)
-14. 🔴 [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+10. 🔴 [GCP Associate Cloud Engineer - Google Cloud Certification](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/)
+11. 🔴 [Cloud Architect Learning Path](https://www.cloudskillsboost.google/paths/12)
 
 ## 7. Team Process
 
