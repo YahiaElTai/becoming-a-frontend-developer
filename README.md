@@ -33,11 +33,11 @@
 1.  🔵 [Modern React with Redux](https://www.udemy.com/course/react-redux/)
 2.  🔵 [React Front To Back 2022](https://www.udemy.com/course/react-front-to-back-2022/)
 3.  🔵 [Codevolution: Practical React Series](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhAh1ypBvcZLDO6I7QTY5CM)
-4.  🟡 [Mastering TypeScript - 2022 Edition](https://www.udemy.com/course/learn-typescript/)
-5.  🟡 [React TypeScript Tutorial Series](https://www.youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK)
-6.  🟡 [Jest Crash Course - Learn How to Test your JavaScript Application](https://www.youtube.com/watch?v=ajiAl5UNzBU)
-7.  🟡 [React Testing Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd)
-8.  🟡 [Testing React with Jest and React Testing Library (RTL)](https://www.udemy.com/course/react-testing-library/)
+4.  🟡 [Jest Crash Course - Learn How to Test your JavaScript Application](https://www.youtube.com/watch?v=ajiAl5UNzBU)
+5.  🟡 [React Testing Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd)
+6.  🟡 [Testing React with Jest and React Testing Library (RTL)](https://www.udemy.com/course/react-testing-library/)
+7.  🟡 [Mastering TypeScript - 2022 Edition](https://www.udemy.com/course/learn-typescript/)
+8.  🟡 [React TypeScript Tutorial Series](https://www.youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK)
 
 ## 4. Backend with NodeJS
 
