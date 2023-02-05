@@ -15,7 +15,7 @@
 
 ## 1. Internet Fundamentals
 
-1. 🔵 [roadmap.sh Frontend Roadmap: Internet section only](https://roadmap.sh/frontend)
+1. 🔵 [roadmap.sh Frontend: (Internet section only)](https://roadmap.sh/frontend)
 
 ## 2. Frontend Fundamentals
 
@@ -24,7 +24,7 @@
 3. 🔵 [The Complete JavaScript Course 2022: From Zero to Expert](https://www.udemy.com/course/the-complete-javascript-course/)
 4. 🔵 [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/)
 5. 🔵 [Advanced CSS and Sass: Flexbox, Grid, Animations and More](https://www.udemy.com/course/advanced-css-and-sass/)
-6. 🔵 [roadmap.sh Frontend Roadmap: Modern CSS section only](https://roadmap.sh/frontend)
+6. 🔵 [roadmap.sh Frontend: (Modern CSS section only)](https://roadmap.sh/frontend)
 7. 🔵 [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
 8. 🔵 [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
 
