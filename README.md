@@ -22,11 +22,11 @@
 1. 🔵 [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3)
 2. 🔵 [Web Design for Web Developers: Build Beautiful Websites](https://www.udemy.com/course/web-design-secrets/)
 3. 🔵 [The Complete JavaScript Course 2022: From Zero to Expert](https://www.udemy.com/course/the-complete-javascript-course/)
-4. 🔵 [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/)
-5. 🔵 [Advanced CSS and Sass: Flexbox, Grid, Animations and More](https://www.udemy.com/course/advanced-css-and-sass/)
-6. 🔵 [roadmap.sh Frontend: (Modern CSS section only)](https://roadmap.sh/frontend)
-7. 🔵 [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
-8. 🔵 [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
+4. 🔵 [Advanced CSS and Sass: Flexbox, Grid, Animations and More](https://www.udemy.com/course/advanced-css-and-sass/)
+5. 🔵 [roadmap.sh Frontend: (Modern CSS section only)](https://roadmap.sh/frontend)
+6. 🔵 [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+7. 🔵 [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
+8. 🔵 [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/)
 
 ## 3. Frontend with React
 
